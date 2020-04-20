@@ -77,4 +77,4 @@ Almost all aspects of this neural network were implemented from scratch for the 
 
 ---
 
-© 2020 [Moses Odhiambo](https:/github.com/badass-techie)
+© 2020 [Moses Odhiambo](https://github.com/badass-techie)
