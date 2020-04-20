@@ -1,4 +1,4 @@
-# Character Reader
+# Handwritten Text Reader
 
 ### A simple neural network to recognize handwritten digits
 
@@ -20,7 +20,7 @@ This neural network was implemented from scratch (no frameworks were used). The 
 <a name="getting-started"></a>
 ## Getting Started
 
-- Navigate to bin/ and run CharacterReader.exe if you are on windows (if you use linux/mac, you'll have to build the source files and run the output).
+- Navigate to bin/ and run HandwrittenTextReader.exe if you are on windows (if you use linux/mac, you'll have to build the source files and run the output).
 
 - Enter the relative path of the image. The program supports bitmap images of 28 by 28 pixels. You can use the images in data/sample-images/
 
