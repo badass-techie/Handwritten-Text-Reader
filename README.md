@@ -37,7 +37,7 @@ Build all .cpp files in the workspace folder.
 ```bash
 #build with g++
 
-g++ src/*.cpp EASYBMP_1.06/*.cpp -o bin/CharacterReader
+g++ src/*.cpp EASYBMP_1.06/*.cpp -o bin/HandwrittenTextReader
 ```
 
 ---
